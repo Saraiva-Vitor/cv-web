@@ -1,0 +1,36 @@
+.Title{
+    height: 32;
+    margin: 16;
+    color: white;
+    font-weight: bold;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    font-size: 20px;
+}
+
+.Image{
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 10%;
+}
+
+.Links{
+    margin-top: 10%;
+}
+
+.Links a{
+    margin: 5px;
+    font-size: 25px;
+}
+
+.Content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: url('../../Assets/background.jpg');
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    min-height: 100vh;
+}

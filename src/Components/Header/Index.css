@@ -1,0 +1,12 @@
+.Header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 10%;
+    width: 100%;
+    font-weight: bold;
+    background: rgb(22, 119, 255);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}

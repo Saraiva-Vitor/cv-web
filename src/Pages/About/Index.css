@@ -1,0 +1,17 @@
+.AboutContainer{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.About{
+    color: white;
+    background-color: rgb(100,100,100,0.6);
+    padding: 5%;
+    border-radius: 5%;
+    font-weight: bold;
+    width: 50%;
+    text-align: justify;
+}
